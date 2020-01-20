@@ -33,7 +33,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Number_2">
     <configuration name="Number_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit1.task2.Number_1" />
       <module name="Samsung" />
@@ -47,8 +47,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Number_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit2.task2.DLC2.Number_2" />
+      <module name="Samsung" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit2.task2.DLC2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number_2" />
         <item itemvalue="Application.Number_1" />
       </list>
     </recent_temporary>
